@@ -1,5 +1,3 @@
-$(function displaySecretText(){
-    $(".btn").click(function displaySecretText(){
-        $("#text").css({"display": "flex"});
-    });
+$(".btn").click(function(){
+    $("#text").css({"display": "flex"});
 });
